@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ru">
+<head>
+<meta name="dtb:uid" content="urn:uuid:7b51d9e5-dc2e-11e3-8865-0025905a069a"/>
+<meta name="dtb:depth" content="5"/>
+<meta name="dtb:totalPageNumber" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Собор Парижской Богоматери (сборник)</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="id1">
+<navLabel>
+<text>Предисловие к публикации перевода романа В. Гюго «Собор Парижской Богоматери» Ф. М. Достоевский</text>
+</navLabel>
+<content src="ch1-2.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="2" id="id2">
+<navLabel>
+<text>Собор Парижской Богоматери</text>
+</navLabel>
+<content src="ch1-3.xhtml#id2"/>
+<navPoint playOrder="3" id="id3">
+<navLabel>
+<text>Книга первая</text>
+</navLabel>
+<content src="ch1-4.xhtml#id3"/>
+<navPoint playOrder="4" id="id4">
+<navLabel>
+<text>I. Большой зал</text>
+</navLabel>
+<content src="ch1-5.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="5" id="id5">
+<navLabel>
+<text>II. Пьер Гренгуар</text>
+</navLabel>
+<content src="ch1-6.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="6" id="id6">
+<navLabel>
+<text>III. Кардинал</text>
+</navLabel>
+<content src="ch1-7.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="7" id="id7">
+<navLabel>
+<text>IV. Мэтр Жак Коппеноль</text>
+</navLabel>
+<content src="ch1-8.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="8" id="id8">
+<navLabel>
+<text>V. Квазимодо</text>
+</navLabel>
+<content src="ch1-9.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="9" id="id9">
+<navLabel>
+<text>VI. Эсмеральда</text>
+</navLabel>
+<content src="ch1-9.xhtml#id9"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="10" id="id10">
+<navLabel>
+<text>Книга вторая</text>
+</navLabel>
+<content src="ch1-10.xhtml#id10"/>
+<navPoint playOrder="11" id="id11">
+<navLabel>
+<text>I. Сцилла и Харибда</text>
+</navLabel>
+<content src="ch1-10.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="12" id="id12">
+<navLabel>
+<text>II. Гревская площадь</text>
+</navLabel>
+<content src="ch1-10.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="13" id="id13">
+<navLabel>
+<text>III. Besos para colpes[26]</text>
+</navLabel>
+<content src="ch1-11.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="14" id="id14">
+<navLabel>
+<text>IV. Неудобства, которым подвергаешься, преследуя вечером хорошенькую женщину</text>
+</navLabel>
+<content src="ch1-11.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="15" id="id15">
+<navLabel>
+<text>V. Продолжение неудач</text>
+</navLabel>
+<content src="ch1-11.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="16" id="id16">
+<navLabel>
+<text>VI. Разбитая кружка</text>
+</navLabel>
+<content src="ch1-12.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="17" id="id17">
+<navLabel>
+<text>VII. Свадебная ночь</text>
+</navLabel>
+<content src="ch1-13.xhtml#id17"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="18" id="id18">
+<navLabel>
+<text>Книга третья</text>
+</navLabel>
+<content src="ch1-14.xhtml#id18"/>
+<navPoint playOrder="19" id="id19">
+<navLabel>
+<text>I. Собор Богоматери</text>
+</navLabel>
+<content src="ch1-15.xhtml#id19"/>
+</navPoint>
+<navPoint playOrder="20" id="id20">
+<navLabel>
+<text>II. Париж с птичьего полета</text>
+</navLabel>
+<content src="ch1-16.xhtml#id20"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="21" id="id21">
+<navLabel>
+<text>Книга четвертая</text>
+</navLabel>
+<content src="ch1-18.xhtml#id21"/>
+<navPoint playOrder="22" id="id22">
+<navLabel>
+<text>I. Добрые души</text>
+</navLabel>
+<content src="ch1-18.xhtml#id22"/>
+</navPoint>
+<navPoint playOrder="23" id="id23">
+<navLabel>
+<text>II. Клод Фролло</text>
+</navLabel>
+<content src="ch1-19.xhtml#id23"/>
+</navPoint>
+<navPoint playOrder="24" id="id24">
+<navLabel>
+<text>III. Immanis pecoris custos – immanior ipse[54]</text>
+</navLabel>
+<content src="ch1-20.xhtml#id24"/>
+</navPoint>
+<navPoint playOrder="25" id="id25">
+<navLabel>
+<text>IV. Собака и ее господин</text>
+</navLabel>
+<content src="ch1-20.xhtml#id25"/>
+</navPoint>
+<navPoint playOrder="26" id="id26">
+<navLabel>
+<text>V. Продолжение о Клоде Фролло</text>
+</navLabel>
+<content src="ch1-21.xhtml#id26"/>
+</navPoint>
+<navPoint playOrder="27" id="id27">
+<navLabel>
+<text>VI. Нелюбовь народа</text>
+</navLabel>
+<content src="ch1-21.xhtml#id27"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="28" id="id28">
+<navLabel>
+<text>Книга пятая</text>
+</navLabel>
+<content src="ch1-22.xhtml#id28"/>
+<navPoint playOrder="29" id="id29">
+<navLabel>
+<text>I. Abbas beati Martini[64]</text>
+</navLabel>
+<content src="ch1-23.xhtml#id29"/>
+</navPoint>
+<navPoint playOrder="30" id="id30">
+<navLabel>
+<text>II. Это убьет то</text>
+</navLabel>
+<content src="ch1-24.xhtml#id30"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="31" id="id31">
+<navLabel>
+<text>Книга шестая</text>
+</navLabel>
+<content src="ch1-25.xhtml#id31"/>
+<navPoint playOrder="32" id="id32">
+<navLabel>
+<text>I. Беспристрастный взгляд на старинную магистратуру</text>
+</navLabel>
+<content src="ch1-26.xhtml#id32"/>
+</navPoint>
+<navPoint playOrder="33" id="id33">
+<navLabel>
+<text>II. «Крысиная нора»</text>
+</navLabel>
+<content src="ch1-26.xhtml#id33"/>
+</navPoint>
+<navPoint playOrder="34" id="id34">
+<navLabel>
+<text>III. Рассказ о маисовой лепешке</text>
+</navLabel>
+<content src="ch1-27.xhtml#id34"/>
+</navPoint>
+<navPoint playOrder="35" id="id35">
+<navLabel>
+<text>IV. Слеза за каплю воды</text>
+</navLabel>
+<content src="ch1-28.xhtml#id35"/>
+</navPoint>
+<navPoint playOrder="36" id="id36">
+<navLabel>
+<text>V. Конец рассказа о лепешке</text>
+</navLabel>
+<content src="ch1-28.xhtml#id36"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="37" id="id37">
+<navLabel>
+<text>Книга седьмая</text>
+</navLabel>
+<content src="ch1-29.xhtml#id37"/>
+<navPoint playOrder="38" id="id38">
+<navLabel>
+<text>I. Как опасно доверять свою тайну козе</text>
+</navLabel>
+<content src="ch1-30.xhtml#id38"/>
+</navPoint>
+<navPoint playOrder="39" id="id39">
+<navLabel>
+<text>II. Священник и философ не одно и то же</text>
+</navLabel>
+<content src="ch1-31.xhtml#id39"/>
+</navPoint>
+<navPoint playOrder="40" id="id40">
+<navLabel>
+<text>III. Колокола</text>
+</navLabel>
+<content src="ch1-31.xhtml#id40"/>
+</navPoint>
+<navPoint playOrder="41" id="id41">
+<navLabel>
+<text>IV. 'ANÀГKH</text>
+</navLabel>
+<content src="ch1-32.xhtml#id41"/>
+</navPoint>
+<navPoint playOrder="42" id="id42">
+<navLabel>
+<text>V. Два человека в черном</text>
+</navLabel>
+<content src="ch1-33.xhtml#id42"/>
+</navPoint>
+<navPoint playOrder="43" id="id43">
+<navLabel>
+<text>VI. К каким последствиям могут привести несколько ругательств, громко произнесенных на улице</text>
+</navLabel>
+<content src="ch1-33.xhtml#id43"/>
+</navPoint>
+<navPoint playOrder="44" id="id44">
+<navLabel>
+<text>VII. Мрачный монах</text>
+</navLabel>
+<content src="ch1-34.xhtml#id44"/>
+</navPoint>
+<navPoint playOrder="45" id="id45">
+<navLabel>
+<text>VIII. Удобство окон, выходящих на реку</text>
+</navLabel>
+<content src="ch1-35.xhtml#id45"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="46" id="id46">
+<navLabel>
+<text>Книга восьмая</text>
+</navLabel>
+<content src="ch1-36.xhtml#id46"/>
+<navPoint playOrder="47" id="id47">
+<navLabel>
+<text>I. Золотая монета, превратившаяся в сухой лист</text>
+</navLabel>
+<content src="ch1-37.xhtml#id47"/>
+</navPoint>
+<navPoint playOrder="48" id="id48">
+<navLabel>
+<text>II. Продолжение рассказа об экю, превратившемся в сухой лист</text>
+</navLabel>
+<content src="ch1-37.xhtml#id48"/>
+</navPoint>
+<navPoint playOrder="49" id="id49">
+<navLabel>
+<text>III. Конец экю, превратившегося в сухой лист</text>
+</navLabel>
+<content src="ch1-37.xhtml#id49"/>
+</navPoint>
+<navPoint playOrder="50" id="id50">
+<navLabel>
+<text>IV. Lasciate ogni speranza[120]</text>
+</navLabel>
+<content src="ch1-38.xhtml#id50"/>
+</navPoint>
+<navPoint playOrder="51" id="id51">
+<navLabel>
+<text>V. Мать</text>
+</navLabel>
+<content src="ch1-38.xhtml#id51"/>
+</navPoint>
+<navPoint playOrder="52" id="id52">
+<navLabel>
+<text>VI. Три мужских сердца, созданные различно</text>
+</navLabel>
+<content src="ch1-39.xhtml#id52"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="53" id="id53">
+<navLabel>
+<text>Книга девятая</text>
+</navLabel>
+<content src="ch1-40.xhtml#id53"/>
+<navPoint playOrder="54" id="id54">
+<navLabel>
+<text>I. Лихорадка</text>
+</navLabel>
+<content src="ch1-41.xhtml#id54"/>
+</navPoint>
+<navPoint playOrder="55" id="id55">
+<navLabel>
+<text>II. Горбатый, одноглазый, хромой</text>
+</navLabel>
+<content src="ch1-41.xhtml#id55"/>
+</navPoint>
+<navPoint playOrder="56" id="id56">
+<navLabel>
+<text>III. Глухой</text>
+</navLabel>
+<content src="ch1-41.xhtml#id56"/>
+</navPoint>
+<navPoint playOrder="57" id="id57">
+<navLabel>
+<text>IV. Песчаник и кристалл</text>
+</navLabel>
+<content src="ch1-42.xhtml#id57"/>
+</navPoint>
+<navPoint playOrder="58" id="id58">
+<navLabel>
+<text>V. Ключи от Красной двери</text>
+</navLabel>
+<content src="ch1-42.xhtml#id58"/>
+</navPoint>
+<navPoint playOrder="59" id="id59">
+<navLabel>
+<text>VI. Продолжение рассказа о ключе от Красной двери</text>
+</navLabel>
+<content src="ch1-42.xhtml#id59"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="60" id="id60">
+<navLabel>
+<text>Книга десятая</text>
+</navLabel>
+<content src="ch1-43.xhtml#id60"/>
+<navPoint playOrder="61" id="id61">
+<navLabel>
+<text>I. У Гренгуара на Бернардинской улице появляется несколько блестящих идей</text>
+</navLabel>
+<content src="ch1-44.xhtml#id61"/>
+</navPoint>
+<navPoint playOrder="62" id="id62">
+<navLabel>
+<text>II. Становись бродягой!</text>
+</navLabel>
+<content src="ch1-44.xhtml#id62"/>
+</navPoint>
+<navPoint playOrder="63" id="id63">
+<navLabel>
+<text>III. Да здравствует веселье!</text>
+</navLabel>
+<content src="ch1-45.xhtml#id63"/>
+</navPoint>
+<navPoint playOrder="64" id="id64">
+<navLabel>
+<text>IV. Медвежья услуга</text>
+</navLabel>
+<content src="ch1-46.xhtml#id64"/>
+</navPoint>
+<navPoint playOrder="65" id="id65">
+<navLabel>
+<text>V. Молельня короля Людовика XI</text>
+</navLabel>
+<content src="ch1-47.xhtml#id65"/>
+</navPoint>
+<navPoint playOrder="66" id="id66">
+<navLabel>
+<text>VI. «Огонек горит»</text>
+</navLabel>
+<content src="ch1-48.xhtml#id66"/>
+</navPoint>
+<navPoint playOrder="67" id="id67">
+<navLabel>
+<text>VII. «Шатопер, выручай!»</text>
+</navLabel>
+<content src="ch1-48.xhtml#id67"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="68" id="id68">
+<navLabel>
+<text>Книга одиннадцатая</text>
+</navLabel>
+<content src="ch1-49.xhtml#id68"/>
+<navPoint playOrder="69" id="id69">
+<navLabel>
+<text>I. Башмачок</text>
+</navLabel>
+<content src="ch1-50.xhtml#id69"/>
+</navPoint>
+<navPoint playOrder="70" id="id70">
+<navLabel>
+<text>II. La creatura bella bianco vestita[150]</text>
+</navLabel>
+<content src="ch1-52.xhtml#id70"/>
+</navPoint>
+<navPoint playOrder="71" id="id71">
+<navLabel>
+<text>III. Женитьба Феба</text>
+</navLabel>
+<content src="ch1-52.xhtml#id71"/>
+</navPoint>
+<navPoint playOrder="72" id="id72">
+<navLabel>
+<text>IV. Женитьба Квазимодо</text>
+</navLabel>
+<content src="ch1-52.xhtml#id72"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint playOrder="73" id="id73">
+<navLabel>
+<text>Человек, который смеется</text>
+</navLabel>
+<content src="ch1-53.xhtml#id73"/>
+<navPoint playOrder="74" id="id74">
+<navLabel>
+<text>Книга первая «Море и ночь»</text>
+</navLabel>
+<content src="ch1-54.xhtml#id74"/>
+<navPoint playOrder="75" id="id75">
+<navLabel>
+<text>Пролог</text>
+</navLabel>
+<content src="ch1-55.xhtml#id75"/>
+<navPoint playOrder="76" id="id76">
+<navLabel>
+<text>1. Урсус</text>
+</navLabel>
+<content src="ch1-56.xhtml#id76"/>
+</navPoint>
+<navPoint playOrder="77" id="id77">
+<navLabel>
+<text>2. Компрачикосы</text>
+</navLabel>
+<content src="ch1-57.xhtml#id77"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="78" id="id78">
+<navLabel>
+<text>Часть первая Ночь не так черна, как человек</text>
+</navLabel>
+<content src="ch1-58.xhtml#id78"/>
+<navPoint playOrder="79" id="id79">
+<navLabel>
+<text>1. Южная оконечность Портленда</text>
+</navLabel>
+<content src="ch1-59.xhtml#id79"/>
+</navPoint>
+<navPoint playOrder="80" id="id80">
+<navLabel>
+<text>2. Брошенный</text>
+</navLabel>
+<content src="ch1-59.xhtml#id80"/>
+</navPoint>
+<navPoint playOrder="81" id="id81">
+<navLabel>
+<text>3. Один</text>
+</navLabel>
+<content src="ch1-59.xhtml#id81"/>
+</navPoint>
+<navPoint playOrder="82" id="id82">
+<navLabel>
+<text>4. Вопросы</text>
+</navLabel>
+<content src="ch1-59.xhtml#id82"/>
+</navPoint>
+<navPoint playOrder="83" id="id83">
+<navLabel>
+<text>5. Дерево, изобретенное людьми</text>
+</navLabel>
+<content src="ch1-59.xhtml#id83"/>
+</navPoint>
+<navPoint playOrder="84" id="id84">
+<navLabel>
+<text>6. Битва смерти с ночью</text>
+</navLabel>
+<content src="ch1-60.xhtml#id84"/>
+</navPoint>
+<navPoint playOrder="85" id="id85">
+<navLabel>
+<text>7. Северная оконечность Портленда</text>
+</navLabel>
+<content src="ch1-60.xhtml#id85"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="86" id="id86">
+<navLabel>
+<text>Часть вторая Урка в море</text>
+</navLabel>
+<content src="ch1-61.xhtml#id86"/>
+<navPoint playOrder="87" id="id87">
+<navLabel>
+<text>1. Законы, не зависящие от человеческой воли</text>
+</navLabel>
+<content src="ch1-61.xhtml#id87"/>
+</navPoint>
+<navPoint playOrder="88" id="id88">
+<navLabel>
+<text>2. Обрисовка первых силуэтов</text>
+</navLabel>
+<content src="ch1-61.xhtml#id88"/>
+</navPoint>
+<navPoint playOrder="89" id="id89">
+<navLabel>
+<text>3. Встревоженные люди на тревожном море</text>
+</navLabel>
+<content src="ch1-61.xhtml#id89"/>
+</navPoint>
+<navPoint playOrder="90" id="id90">
+<navLabel>
+<text>4. Появление тучи, не похожей на другие</text>
+</navLabel>
+<content src="ch1-62.xhtml#id90"/>
+</navPoint>
+<navPoint playOrder="91" id="id91">
+<navLabel>
+<text>5. Хардкванон</text>
+</navLabel>
+<content src="ch1-62.xhtml#id91"/>
+</navPoint>
+<navPoint playOrder="92" id="id92">
+<navLabel>
+<text>6. Они уповают на помощь ветра</text>
+</navLabel>
+<content src="ch1-62.xhtml#id92"/>
+</navPoint>
+<navPoint playOrder="93" id="id93">
+<navLabel>
+<text>7. Священный ужас</text>
+</navLabel>
+<content src="ch1-62.xhtml#id93"/>
+</navPoint>
+<navPoint playOrder="94" id="id94">
+<navLabel>
+<text>8. Nix et nox – Снег и ночь</text>
+</navLabel>
+<content src="ch1-62.xhtml#id94"/>
+</navPoint>
+<navPoint playOrder="95" id="id95">
+<navLabel>
+<text>9. Бурное море предостерегает</text>
+</navLabel>
+<content src="ch1-62.xhtml#id95"/>
+</navPoint>
+<navPoint playOrder="96" id="id96">
+<navLabel>
+<text>10. Буря – лютая дикарка</text>
+</navLabel>
+<content src="ch1-62.xhtml#id96"/>
+</navPoint>
+<navPoint playOrder="97" id="id97">
+<navLabel>
+<text>11. Каскеты</text>
+</navLabel>
+<content src="ch1-62.xhtml#id97"/>
+</navPoint>
+<navPoint playOrder="98" id="id98">
+<navLabel>
+<text>12. Поединок с рифом</text>
+</navLabel>
+<content src="ch1-62.xhtml#id98"/>
+</navPoint>
+<navPoint playOrder="99" id="id99">
+<navLabel>
+<text>13. Лицом к лицу с мраком ночи</text>
+</navLabel>
+<content src="ch1-62.xhtml#id99"/>
+</navPoint>
+<navPoint playOrder="100" id="id100">
+<navLabel>
+<text>14. Ортах</text>
+</navLabel>
+<content src="ch1-62.xhtml#id100"/>
+</navPoint>
+<navPoint playOrder="101" id="id101">
+<navLabel>
+<text>15. Portentosum mare – Море ужаса</text>
+</navLabel>
+<content src="ch1-63.xhtml#id101"/>
+</navPoint>
+<navPoint playOrder="102" id="id102">
+<navLabel>
+<text>16. Загадочное затишье</text>
+</navLabel>
+<content src="ch1-63.xhtml#id102"/>
+</navPoint>
+<navPoint playOrder="103" id="id103">
+<navLabel>
+<text>17. Последнее средство</text>
+</navLabel>
+<content src="ch1-63.xhtml#id103"/>
+</navPoint>
+<navPoint playOrder="104" id="id104">
+<navLabel>
+<text>18. Крайнее средство</text>
+</navLabel>
+<content src="ch1-64.xhtml#id104"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="105" id="id105">
+<navLabel>
+<text>Часть третья Ребенок во мраке</text>
+</navLabel>
+<content src="ch1-65.xhtml#id105"/>
+<navPoint playOrder="106" id="id106">
+<navLabel>
+<text>1. Чесс-Хилл</text>
+</navLabel>
+<content src="ch1-65.xhtml#id106"/>
+</navPoint>
+<navPoint playOrder="107" id="id107">
+<navLabel>
+<text>2. Действие снега</text>
+</navLabel>
+<content src="ch1-65.xhtml#id107"/>
+</navPoint>
+<navPoint playOrder="108" id="id108">
+<navLabel>
+<text>3. Тягостный путь еще тяжелее от ноши</text>
+</navLabel>
+<content src="ch1-65.xhtml#id108"/>
+</navPoint>
+<navPoint playOrder="109" id="id109">
+<navLabel>
+<text>4. Иного рода пустыня</text>
+</navLabel>
+<content src="ch1-65.xhtml#id109"/>
+</navPoint>
+<navPoint playOrder="110" id="id110">
+<navLabel>
+<text>5. Причуды мизантропа</text>
+</navLabel>
+<content src="ch1-66.xhtml#id110"/>
+</navPoint>
+<navPoint playOrder="111" id="id111">
+<navLabel>
+<text>6. Пробуждение</text>
+</navLabel>
+<content src="ch1-66.xhtml#id111"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint playOrder="112" id="id112">
+<navLabel>
+<text>Книга вторая «По приказу короля»</text>
+</navLabel>
+<content src="ch1-67.xhtml#id112"/>
+<navPoint playOrder="113" id="id113">
+<navLabel>
+<text>Часть первая Прошлое не умирает; в людях отражается человек</text>
+</navLabel>
+<content src="ch1-68.xhtml#id113"/>
+<navPoint playOrder="114" id="id114">
+<navLabel>
+<text>1. Лорд Кленчарли</text>
+</navLabel>
+<content src="ch1-69.xhtml#id114"/>
+</navPoint>
+<navPoint playOrder="115" id="id115">
+<navLabel>
+<text>2. Лорд Дэвид Дерри-Мойр</text>
+</navLabel>
+<content src="ch1-70.xhtml#id115"/>
+</navPoint>
+<navPoint playOrder="116" id="id116">
+<navLabel>
+<text>3. Герцогиня Джозиана</text>
+</navLabel>
+<content src="ch1-71.xhtml#id116"/>
+</navPoint>
+<navPoint playOrder="117" id="id117">
+<navLabel>
+<text>4. Magister elegantiarum – Законодатель изящества</text>
+</navLabel>
+<content src="ch1-72.xhtml#id117"/>
+</navPoint>
+<navPoint playOrder="118" id="id118">
+<navLabel>
+<text>5. Королева Анна</text>
+</navLabel>
+<content src="ch1-73.xhtml#id118"/>
+</navPoint>
+<navPoint playOrder="119" id="id119">
+<navLabel>
+<text>6. Баркильфедро</text>
+</navLabel>
+<content src="ch1-74.xhtml#id119"/>
+</navPoint>
+<navPoint playOrder="120" id="id120">
+<navLabel>
+<text>7. Баркильфедро пробивает себе дорогу</text>
+</navLabel>
+<content src="ch1-75.xhtml#id120"/>
+</navPoint>
+<navPoint playOrder="121" id="id121">
+<navLabel>
+<text>8. Inferi – Преисподняя</text>
+</navLabel>
+<content src="ch1-75.xhtml#id121"/>
+</navPoint>
+<navPoint playOrder="122" id="id122">
+<navLabel>
+<text>9. Ненависть так же сильна, как и любовь</text>
+</navLabel>
+<content src="ch1-76.xhtml#id122"/>
+</navPoint>
+<navPoint playOrder="123" id="id123">
+<navLabel>
+<text>10. Пламя, которое можно было бы видеть, будь человек прозрачен</text>
+</navLabel>
+<content src="ch1-77.xhtml#id123"/>
+</navPoint>
+<navPoint playOrder="124" id="id124">
+<navLabel>
+<text>11. Баркильфедро в засаде</text>
+</navLabel>
+<content src="ch1-77.xhtml#id124"/>
+</navPoint>
+<navPoint playOrder="125" id="id125">
+<navLabel>
+<text>12. Шотландия, Ирландия и Англия</text>
+</navLabel>
+<content src="ch1-78.xhtml#id125"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="126" id="id126">
+<navLabel>
+<text>Часть вторая Гуинплен и Дея</text>
+</navLabel>
+<content src="ch1-79.xhtml#id126"/>
+<navPoint playOrder="127" id="id127">
+<navLabel>
+<text>1. Лицо человека, которого до сих пор знали только по его поступкам</text>
+</navLabel>
+<content src="ch1-79.xhtml#id127"/>
+</navPoint>
+<navPoint playOrder="128" id="id128">
+<navLabel>
+<text>2. Дея</text>
+</navLabel>
+<content src="ch1-79.xhtml#id128"/>
+</navPoint>
+<navPoint playOrder="129" id="id129">
+<navLabel>
+<text>3. Oculos non habet, et videt – Не имеет глаз, а видит</text>
+</navLabel>
+<content src="ch1-79.xhtml#id129"/>
+</navPoint>
+<navPoint playOrder="130" id="id130">
+<navLabel>
+<text>4. Прекрасно подобранная чета влюбленных</text>
+</navLabel>
+<content src="ch1-79.xhtml#id130"/>
+</navPoint>
+<navPoint playOrder="131" id="id131">
+<navLabel>
+<text>5. Лазурь среди мрака</text>
+</navLabel>
+<content src="ch1-79.xhtml#id131"/>
+</navPoint>
+<navPoint playOrder="132" id="id132">
+<navLabel>
+<text>6. Урсус наставник и Урсус опекун</text>
+</navLabel>
+<content src="ch1-79.xhtml#id132"/>
+</navPoint>
+<navPoint playOrder="133" id="id133">
+<navLabel>
+<text>7. Слепота дает уроки ясновидения</text>
+</navLabel>
+<content src="ch1-80.xhtml#id133"/>
+</navPoint>
+<navPoint playOrder="134" id="id134">
+<navLabel>
+<text>8. Не только счастье, но и благоденствие</text>
+</navLabel>
+<content src="ch1-81.xhtml#id134"/>
+</navPoint>
+<navPoint playOrder="135" id="id135">
+<navLabel>
+<text>9. Сумасбродство, которое люди без вкуса называют поэзией</text>
+</navLabel>
+<content src="ch1-82.xhtml#id135"/>
+</navPoint>
+<navPoint playOrder="136" id="id136">
+<navLabel>
+<text>10. Взгляды на вещи и на людей человека, выброшенного за борт жизни</text>
+</navLabel>
+<content src="ch1-83.xhtml#id136"/>
+</navPoint>
+<navPoint playOrder="137" id="id137">
+<navLabel>
+<text>11. Гуинплен – глашатай справедливости, Урсус – глашатай истины</text>
+</navLabel>
+<content src="ch1-84.xhtml#id137"/>
+</navPoint>
+<navPoint playOrder="138" id="id138">
+<navLabel>
+<text>12. Урсус-поэт увлекает Урсуса-философа</text>
+</navLabel>
+<content src="ch1-84.xhtml#id138"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="139" id="id139">
+<navLabel>
+<text>Часть третья Возникновение трещины</text>
+</navLabel>
+<content src="ch1-85.xhtml#id139"/>
+<navPoint playOrder="140" id="id140">
+<navLabel>
+<text>1. Тедкастерская гостиница</text>
+</navLabel>
+<content src="ch1-85.xhtml#id140"/>
+</navPoint>
+<navPoint playOrder="141" id="id141">
+<navLabel>
+<text>2. Красноречие под открытым небом</text>
+</navLabel>
+<content src="ch1-86.xhtml#id141"/>
+</navPoint>
+<navPoint playOrder="142" id="id142">
+<navLabel>
+<text>3. Прохожий появляется снова</text>
+</navLabel>
+<content src="ch1-87.xhtml#id142"/>
+</navPoint>
+<navPoint playOrder="143" id="id143">
+<navLabel>
+<text>4. Ненависть роднит самых несходных людей</text>
+</navLabel>
+<content src="ch1-88.xhtml#id143"/>
+</navPoint>
+<navPoint playOrder="144" id="id144">
+<navLabel>
+<text>5. Жезлоносец</text>
+</navLabel>
+<content src="ch1-88.xhtml#id144"/>
+</navPoint>
+<navPoint playOrder="145" id="id145">
+<navLabel>
+<text>6. Мышь на допросе у котов</text>
+</navLabel>
+<content src="ch1-89.xhtml#id145"/>
+</navPoint>
+<navPoint playOrder="146" id="id146">
+<navLabel>
+<text>7. По каким причинам может затесаться золотой среди медяков?</text>
+</navLabel>
+<content src="ch1-90.xhtml#id146"/>
+</navPoint>
+<navPoint playOrder="147" id="id147">
+<navLabel>
+<text>8. Признаки отравления</text>
+</navLabel>
+<content src="ch1-90.xhtml#id147"/>
+</navPoint>
+<navPoint playOrder="148" id="id148">
+<navLabel>
+<text>9. Abyssus abyssum vocat – Бездна призывает бездну</text>
+</navLabel>
+<content src="ch1-91.xhtml#id148"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="149" id="id149">
+<navLabel>
+<text>Часть четвертая Подземный застенок</text>
+</navLabel>
+<content src="ch1-92.xhtml#id149"/>
+<navPoint playOrder="150" id="id150">
+<navLabel>
+<text>1. Искушение святого Гуинплена</text>
+</navLabel>
+<content src="ch1-93.xhtml#id150"/>
+</navPoint>
+<navPoint playOrder="151" id="id151">
+<navLabel>
+<text>2. От сладостного к суровому</text>
+</navLabel>
+<content src="ch1-94.xhtml#id151"/>
+</navPoint>
+<navPoint playOrder="152" id="id152">
+<navLabel>
+<text>3. Lex, rex, fex – Закон, король, чернь</text>
+</navLabel>
+<content src="ch1-94.xhtml#id152"/>
+</navPoint>
+<navPoint playOrder="153" id="id153">
+<navLabel>
+<text>4. Урсус выслеживает полицию</text>
+</navLabel>
+<content src="ch1-94.xhtml#id153"/>
+</navPoint>
+<navPoint playOrder="154" id="id154">
+<navLabel>
+<text>5. Ужасное место</text>
+</navLabel>
+<content src="ch1-94.xhtml#id154"/>
+</navPoint>
+<navPoint playOrder="155" id="id155">
+<navLabel>
+<text>6. Какие судебные чины скрывались под париками того времени</text>
+</navLabel>
+<content src="ch1-94.xhtml#id155"/>
+</navPoint>
+<navPoint playOrder="156" id="id156">
+<navLabel>
+<text>7. Трепет</text>
+</navLabel>
+<content src="ch1-94.xhtml#id156"/>
+</navPoint>
+<navPoint playOrder="157" id="id157">
+<navLabel>
+<text>8. Стон</text>
+</navLabel>
+<content src="ch1-95.xhtml#id157"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="158" id="id158">
+<navLabel>
+<text>Часть пятая Море и судьба послушны одним и тем же ветрам</text>
+</navLabel>
+<content src="ch1-96.xhtml#id158"/>
+<navPoint playOrder="159" id="id159">
+<navLabel>
+<text>1. Прочность хрупких предметов</text>
+</navLabel>
+<content src="ch1-97.xhtml#id159"/>
+</navPoint>
+<navPoint playOrder="160" id="id160">
+<navLabel>
+<text>2. То, что плывет, достигает берега</text>
+</navLabel>
+<content src="ch1-98.xhtml#id160"/>
+</navPoint>
+<navPoint playOrder="161" id="id161">
+<navLabel>
+<text>3. Всякий, кого в одно мгновение перебросили бы из Сибири в Сенегал, лишился бы чувств (Гумбольдт)</text>
+</navLabel>
+<content src="ch1-98.xhtml#id161"/>
+</navPoint>
+<navPoint playOrder="162" id="id162">
+<navLabel>
+<text>4. Чары</text>
+</navLabel>
+<content src="ch1-99.xhtml#id162"/>
+</navPoint>
+<navPoint playOrder="163" id="id163">
+<navLabel>
+<text>5. Человеку кажется, что он вспоминает, между тем как он забывает</text>
+</navLabel>
+<content src="ch1-100.xhtml#id163"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="164" id="id164">
+<navLabel>
+<text>Часть шестая Личины Урсуса</text>
+</navLabel>
+<content src="ch1-101.xhtml#id164"/>
+<navPoint playOrder="165" id="id165">
+<navLabel>
+<text>1. Что говорит человеконенавистник</text>
+</navLabel>
+<content src="ch1-101.xhtml#id165"/>
+</navPoint>
+<navPoint playOrder="166" id="id166">
+<navLabel>
+<text>2. И как он поступает</text>
+</navLabel>
+<content src="ch1-102.xhtml#id166"/>
+</navPoint>
+<navPoint playOrder="167" id="id167">
+<navLabel>
+<text>3. Осложнения</text>
+</navLabel>
+<content src="ch1-102.xhtml#id167"/>
+</navPoint>
+<navPoint playOrder="168" id="id168">
+<navLabel>
+<text>4. Moenibus surdis, campana muta – Стены глухи, колокол нем</text>
+</navLabel>
+<content src="ch1-102.xhtml#id168"/>
+</navPoint>
+<navPoint playOrder="169" id="id169">
+<navLabel>
+<text>5. Государственные интересы проявляются в великом и в малом</text>
+</navLabel>
+<content src="ch1-103.xhtml#id169"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="170" id="id170">
+<navLabel>
+<text>Часть седьмая Женщина-титан</text>
+</navLabel>
+<content src="ch1-104.xhtml#id170"/>
+<navPoint playOrder="171" id="id171">
+<navLabel>
+<text>1. Пробуждение</text>
+</navLabel>
+<content src="ch1-104.xhtml#id171"/>
+</navPoint>
+<navPoint playOrder="172" id="id172">
+<navLabel>
+<text>2. Дворец, похожий на лес</text>
+</navLabel>
+<content src="ch1-104.xhtml#id172"/>
+</navPoint>
+<navPoint playOrder="173" id="id173">
+<navLabel>
+<text>3. Ева</text>
+</navLabel>
+<content src="ch1-105.xhtml#id173"/>
+</navPoint>
+<navPoint playOrder="174" id="id174">
+<navLabel>
+<text>4. Сатана</text>
+</navLabel>
+<content src="ch1-106.xhtml#id174"/>
+</navPoint>
+<navPoint playOrder="175" id="id175">
+<navLabel>
+<text>5. Узнают друг друга, оставаясь неузнанными</text>
+</navLabel>
+<content src="ch1-106.xhtml#id175"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="176" id="id176">
+<navLabel>
+<text>Часть восьмая Капитолий и его окрестности</text>
+</navLabel>
+<content src="ch1-107.xhtml#id176"/>
+<navPoint playOrder="177" id="id177">
+<navLabel>
+<text>1. Торжественная церемония во всех ее подробностях</text>
+</navLabel>
+<content src="ch1-108.xhtml#id177"/>
+</navPoint>
+<navPoint playOrder="178" id="id178">
+<navLabel>
+<text>2. Беспристрастие</text>
+</navLabel>
+<content src="ch1-109.xhtml#id178"/>
+</navPoint>
+<navPoint playOrder="179" id="id179">
+<navLabel>
+<text>3. Старинный зал</text>
+</navLabel>
+<content src="ch1-110.xhtml#id179"/>
+</navPoint>
+<navPoint playOrder="180" id="id180">
+<navLabel>
+<text>4. Палата лордов в старину</text>
+</navLabel>
+<content src="ch1-111.xhtml#id180"/>
+</navPoint>
+<navPoint playOrder="181" id="id181">
+<navLabel>
+<text>5. Высокомерная болтовня</text>
+</navLabel>
+<content src="ch1-112.xhtml#id181"/>
+</navPoint>
+<navPoint playOrder="182" id="id182">
+<navLabel>
+<text>6. Верхняя и нижняя палаты</text>
+</navLabel>
+<content src="ch1-112.xhtml#id182"/>
+</navPoint>
+<navPoint playOrder="183" id="id183">
+<navLabel>
+<text>7. Жизненные бури страшнее океанских</text>
+</navLabel>
+<content src="ch1-113.xhtml#id183"/>
+</navPoint>
+<navPoint playOrder="184" id="id184">
+<navLabel>
+<text>8. Был бы хорошим братом, если бы не был примерным сыном</text>
+</navLabel>
+<content src="ch1-114.xhtml#id184"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="185" id="id185">
+<navLabel>
+<text>Часть девятая На развалинах</text>
+</navLabel>
+<content src="ch1-115.xhtml#id185"/>
+<navPoint playOrder="186" id="id186">
+<navLabel>
+<text>1. С высоты величия в бездну отчаяния</text>
+</navLabel>
+<content src="ch1-115.xhtml#id186"/>
+</navPoint>
+<navPoint playOrder="187" id="id187">
+<navLabel>
+<text>2. Последний итог</text>
+</navLabel>
+<content src="ch1-116.xhtml#id187"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="188" id="id188">
+<navLabel>
+<text>Заключение Море и ночь</text>
+</navLabel>
+<content src="ch1-117.xhtml#id188"/>
+<navPoint playOrder="189" id="id189">
+<navLabel>
+<text>1. Сторожевая собака может быть ангелом-хранителем</text>
+</navLabel>
+<content src="ch1-117.xhtml#id189"/>
+</navPoint>
+<navPoint playOrder="190" id="id190">
+<navLabel>
+<text>2. Баркильфедро метил в ястреба, а попал в голубку</text>
+</navLabel>
+<content src="ch1-118.xhtml#id190"/>
+</navPoint>
+<navPoint playOrder="191" id="id191">
+<navLabel>
+<text>3. Рай, вновь обретенный на земле</text>
+</navLabel>
+<content src="ch1-118.xhtml#id191"/>
+</navPoint>
+<navPoint playOrder="192" id="id192">
+<navLabel>
+<text>4. Нет, на небесах</text>
+</navLabel>
+<content src="ch1-119.xhtml#id192"/>
+</navPoint>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint playOrder="193" id="id193">
+<navLabel>
+<text>Гаврош</text>
+</navLabel>
+<content src="ch1-120.xhtml#id193"/>
+</navPoint>
+</navMap>
+</ncx>

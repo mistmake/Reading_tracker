@@ -1,0 +1,211 @@
+.ach {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    text-indent: 0;
+    margin: 20% 0 1em
+    }
+.ad_card {
+    display: block
+    }
+.calibre {
+    display: block;
+    font-size: 1.41667em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-style: italic
+    }
+.calibre2 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre3 {
+    font-weight: bold
+    }
+.calibre4 {
+    display: block
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.cotx {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0
+    }
+.crt {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    text-indent: 0;
+    margin: 20% 0 0
+    }
+.crt1 {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.crt2 {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    text-indent: 0;
+    margin: 0
+    }
+.ct {
+    display: block;
+    font-family: serif;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 20% 0 2em
+    }
+.ded {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    text-indent: 0;
+    margin: 20% 0 0 3em
+    }
+.ep {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    text-indent: 0;
+    margin: 2em 3em 0
+    }
+.eps {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 3em 2em
+    }
+.fmh {
+    display: block;
+    font-family: sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 20% 0 2em
+    }
+.p {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0.5em 0 0
+    }
+.pn {
+    display: block;
+    font-family: serif;
+    font-size: 1.17647em;
+    font-style: bold;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 20% 0 1em
+    }
+.spb {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: justify;
+    text-indent: 0;
+    margin: 1.5em 0 0
+    }
+.tocbmh {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.5em 0 0
+    }
+.tocct {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    text-indent: 0.5em;
+    margin: 0
+    }
+.tocfmh {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 0.5em
+    }
+.tocpn {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.5em 0 0
+    }

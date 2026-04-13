@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+}
+
+.chapter-list ul {
+    list-style: none;
+    padding: 0;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.chapter-list li {
+    cursor: pointer;
+    /* display: none; */
+}
+
+.chapter-content {
+    display: none;
+}
+
+.chapter-list li:hover {
+    text-decoration: underline;
+}
+
+.chapter-list li.selected {
+    text-decoration: underline;
+}
+
+.book-info {
+    flex: 2;
+    padding: 20px;
+    text-align: left;
+}
+
+.info_kniga{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}

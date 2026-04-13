@@ -1,0 +1,49 @@
+{% load static %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %} {% endblock %}</title>
+    {% block links %} {% endblock links %}
+<link rel="stylesheet" href="{% static 'main/css/main.css' %}">
+</head>
+<body>
+<header>
+    <a href="{% url 'home' %}" style="font-weight: 700">Главная</a>
+    <p>|</p>
+    <a href="">О нас</a>
+    <p>|</p>
+    <a href="">Контакты</a>
+    <p>|</p>
+    {% if user.is_authenticated %}
+        <div><a href="{% url 'profile' %}">{{ user.email }}</a> <a href="{% url 'logout' %}"> <img src="{% static 'main/img/logout.svg' %}" alt="logout" style="margin: 0px; padding-right: 0px; width: 5%; height: auto;"></a></div>
+    {% else %}
+        <a href="{% url 'login' %}">Войти</a> <br>
+    {% endif %}
+</header>
+
+{% block main %}
+{% endblock main %}
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer-left">
+            <p style="font-weight: 700">Свяжитесь со мной:</p>
+            <p>Телефон: +7 123 456 789</p>
+            <p>&copy; Иля Лох</p>
+            <p>Дата создания сайта: Декабрь 2023</p>
+        </div>
+        <div class="footer-right">
+            <p style="font-weight: 700">Посетите мои страницы в социальных сетях:</p>
+            <ul class="social-links">
+                <li><a href="https://www.facebook.com/yourprofile" target="_blank">Facebook</a></li>
+                <li><a href="https://twitter.com/yourprofile" target="_blank">Twitter</a></li>
+                <li><a href="https://www.instagram.com/yourprofile" target="_blank">Instagram</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+</body>
+</html>

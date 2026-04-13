@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="bookid" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/">
+<metadata>
+<dc:title>Цветы для Элджернона</dc:title>
+<dc:creator>Дэниел Киз</dc:creator>
+<meta name="FB2.book-info.translator" content="Сергей Николаевич Шаров"/>
+<dc:language>ru</dc:language>
+<dc:description>Научно-фантастический роман американского писателя Даниэла Киза, претерпевший более сорока изданий на родине автора и широко известный во всем мире. Произведение посвящено теме ответственности ученого за эксперименты над человеком. </dc:description>
+<meta name="FB2.book-info.date" content="1990"/>
+<dc:date>1990</dc:date>
+<meta name="FB2.document-info.program-used" content="any2fb2, FB Tools, FB Writer v1.1, FB Editor v2.0, AlReader2, FictionBook Editor Release 2.6.6"/>
+<meta name="FB2.document-info.src-url" content="http://publ.lib.ru/ARCHIVES/K/KIZ_Deniel/_Kiz_D..html"/>
+<meta name="FB2.document-info.src-ocr" content="Сергей Кузнецов [kouznets@mtu-net.ru]"/>
+<meta name="FB2.document-info.history" content="v. 1.0 — создание fb2 v. 1.1 — вычитка v. 1.2 — доп. вычитка — (MCat78) v. 1.3 — еще вычитка — (Sclex) v 1.4 — вычитка — (Faiber) v 1.5 — дискрипшен заполнен в соответствии с исходником, доп. вычитка, восстановление лакуны, букчек и доп. форматирование, замена обложки на «родную». 26-10-2014 by Sоmmar v 1.6 — вычитка, добавлено отчество переводчика (redline 10.01.2015) "/>
+<meta name="FB2.document-info.id" content="C1056D01-7073-4D2D-9904-E53C403C04FE"/>
+<meta name="FB2.document-info.version" content="1.6"/>
+<meta name="FB2.document-info.date" content="1990"/>
+<dc:identifier id="bookid">urn:uuid:c1056d01-7073-4d2d-9904-e53c403c04fe</dc:identifier>
+<dc:publisher>Мир</dc:publisher>
+<meta name="FB2.publish-info.book-name" content="Киз Д. Цветы для Элджернона: Науч.-фантаст. роман"/>
+<meta name="FB2.publish-info.city" content="Москва"/>
+<meta name="FB2.publish-info.year" content="1990"/>
+<dc:identifier id="bookid1">isbn:5-03-002396-8</dc:identifier>
+<meta name="FB2EPUB.version" content="0.5.0"/>
+<meta name="FB2EPUB.conversionDate" content="2016-09-15T13:57:58+02:00"/>
+</metadata>
+<manifest>
+<item href="style.css" media-type="text/css" id="id1"/>
+<item href="ch1-19.xhtml" media-type="application/xhtml+xml" id="id2"/>
+<item href="ch1-3.xhtml" media-type="application/xhtml+xml" id="id3"/>
+<item href="ch1-11.xhtml" media-type="application/xhtml+xml" id="id4"/>
+<item href="ch1-18.xhtml" media-type="application/xhtml+xml" id="id5"/>
+<item href="ch1-2.xhtml" media-type="application/xhtml+xml" id="id6"/>
+<item href="ch1-10.xhtml" media-type="application/xhtml+xml" id="id7"/>
+<item href="ch1-17.xhtml" media-type="application/xhtml+xml" id="id8"/>
+<item href="ch1-9.xhtml" media-type="application/xhtml+xml" id="id9"/>
+<item href="fonts/Times-New-Roman-400-c1056d01-7073-4d2d-9904-e53c403c04fe.otf" media-type="application/vnd.ms-opentype" id="id10"/>
+<item href="fonts/Times-New-Roman-700-c1056d01-7073-4d2d-9904-e53c403c04fe.otf" media-type="application/vnd.ms-opentype" id="id11"/>
+<item href="ch1-14.xhtml" media-type="application/xhtml+xml" id="id12"/>
+<item href="ch1-5.xhtml" media-type="application/xhtml+xml" id="id13"/>
+<item href="ch1-13.xhtml" media-type="application/xhtml+xml" id="id14"/>
+<item href="fonts/Times-New-Roman-400-Italic-c1056d01-7073-4d2d-9904-e53c403c04fe.otf" media-type="application/vnd.ms-opentype" id="id15"/>
+<item href="ch1-4.xhtml" media-type="application/xhtml+xml" id="id16"/>
+<item href="ch1.xhtml" media-type="application/xhtml+xml" id="id17"/>
+<item href="ch1-12.xhtml" media-type="application/xhtml+xml" id="id18"/>
+<item href="ch1-22.xhtml" media-type="application/xhtml+xml" id="id19"/>
+<item href="ch1-21.xhtml" media-type="application/xhtml+xml" id="id20"/>
+<item href="toc.ncx" media-type="application/x-dtbncx+xml" id="id21"/>
+<item href="ch1-20.xhtml" media-type="application/xhtml+xml" id="id22"/>
+<item href="ch1-1.xhtml" media-type="application/xhtml+xml" id="id23"/>
+<item href="ch1-16.xhtml" media-type="application/xhtml+xml" id="id24"/>
+<item href="ch1-8.xhtml" media-type="application/xhtml+xml" id="id25"/>
+<item href="ch1-15.xhtml" media-type="application/xhtml+xml" id="id26"/>
+<item href="ch1-7.xhtml" media-type="application/xhtml+xml" id="id27"/>
+<item href="ch1-6.xhtml" media-type="application/xhtml+xml" id="id28"/>
+<item href="fonts/Times-New-Roman-700-Italic-c1056d01-7073-4d2d-9904-e53c403c04fe.otf" media-type="application/vnd.ms-opentype" id="id29"/>
+</manifest>
+<spine toc="id21">
+<itemref idref="id17"/>
+<itemref idref="id23"/>
+<itemref idref="id6"/>
+<itemref idref="id3"/>
+<itemref idref="id16"/>
+<itemref idref="id13"/>
+<itemref idref="id28"/>
+<itemref idref="id27"/>
+<itemref idref="id25"/>
+<itemref idref="id9"/>
+<itemref idref="id7"/>
+<itemref idref="id4"/>
+<itemref idref="id18"/>
+<itemref idref="id14"/>
+<itemref idref="id12"/>
+<itemref idref="id26"/>
+<itemref idref="id24"/>
+<itemref idref="id8"/>
+<itemref idref="id5"/>
+<itemref idref="id2"/>
+<itemref idref="id22"/>
+<itemref idref="id20"/>
+<itemref idref="id19"/>
+</spine>
+<guide/></package>

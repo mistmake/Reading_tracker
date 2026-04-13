@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ru">
+<head>
+<meta name="dtb:uid" content="urn:uuid:c1056d01-7073-4d2d-9904-e53c403c04fe"/>
+<meta name="dtb:depth" content="2"/>
+<meta name="dtb:totalPageNumber" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Цветы для Элджернона</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="id1">
+<navLabel>
+<text>1 атчет 3 марта</text>
+</navLabel>
+<content src="ch1-2.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="2" id="id2">
+<navLabel>
+<text>2 атчет 4 марта</text>
+</navLabel>
+<content src="ch1-3.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="3" id="id3">
+<navLabel>
+<text>3 атчет 5 марта</text>
+</navLabel>
+<content src="ch1-4.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="4" id="id4">
+<navLabel>
+<text>атчет 4</text>
+</navLabel>
+<content src="ch1-5.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="5" id="id5">
+<navLabel>
+<text>атчет 5. 6 марта</text>
+</navLabel>
+<content src="ch1-6.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="6" id="id6">
+<navLabel>
+<text>атчет 6. март 8</text>
+</navLabel>
+<content src="ch1-7.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="7" id="id7">
+<navLabel>
+<text>атчет 7. Март 11</text>
+</navLabel>
+<content src="ch1-8.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="8" id="id8">
+<navLabel>
+<text>Отчет 8</text>
+</navLabel>
+<content src="ch1-9.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="9" id="id9">
+<navLabel>
+<text>Отчет № 9</text>
+</navLabel>
+<content src="ch1-10.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="10" id="id10">
+<navLabel>
+<text>Отчет № 10</text>
+</navLabel>
+<content src="ch1-11.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="11" id="id11">
+<navLabel>
+<text>Отчет № 11</text>
+</navLabel>
+<content src="ch1-12.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="12" id="id12">
+<navLabel>
+<text>Отчет № 12</text>
+</navLabel>
+<content src="ch1-14.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="13" id="id13">
+<navLabel>
+<text>Отчет № 13</text>
+</navLabel>
+<content src="ch1-15.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="14" id="id14">
+<navLabel>
+<text>Отчет № 14</text>
+</navLabel>
+<content src="ch1-16.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="15" id="id15">
+<navLabel>
+<text>Отчет № 15</text>
+</navLabel>
+<content src="ch1-18.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="16" id="id16">
+<navLabel>
+<text>Отчет № 16</text>
+</navLabel>
+<content src="ch1-19.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="17" id="id17">
+<navLabel>
+<text>Отчет № 17</text>
+</navLabel>
+<content src="ch1-21.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="18" id="id18">
+<navLabel>
+<text>Послесловие</text>
+</navLabel>
+<content src="ch1-22.xhtml#id18"/>
+</navPoint>
+</navMap>
+</ncx>

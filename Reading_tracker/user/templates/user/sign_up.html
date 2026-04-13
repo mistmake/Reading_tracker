@@ -1,0 +1,40 @@
+{% load static %}
+<!-- change: Design-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign up</title>
+    <link rel="stylesheet" href="{% static '/user/css/reg_style.css' %}">
+</head>
+<body>
+<div class="container">
+    <a href="{% url 'home' %}" class="back_link">Back</a>
+    <h1>SIGN UP</h1>
+    <form method="post" class="form">
+        <div class="inputs">
+            {% csrf_token %}
+            {{ form.email }}
+            {{ form.password1 }}
+            {{ form.password2 }}
+        </div>
+        <button class="submit" type="submit">Submit</button>
+    </form>
+    <div class="alert">
+        {% if form.errors %}
+            <ul>
+                {% for field, errors in form.errors.items %}
+                    {% for error in errors %}
+                        <li>{{ field }}: {{ error }}</li>
+                    {% endfor %}
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+    <div class="login">
+        <pre>Already have an account? </pre> <a href="{% url 'login' %}">Log in</a>
+    </div>
+</div>
+</body>
+</html>
