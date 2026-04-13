@@ -1,10 +1,97 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'main/base.html' %}
+{% load static %}
 
-</body>
-</html>
+{% block title %} Контакты {% endblock %}
+
+{% block main %}
+<main>
+    <h1>Контакты</h1>
+    <p class="inform">Есть вопросы или предложения? Свяжитесь со мной любым удобным способом.</p>
+
+    <div class="contacts-grid">
+
+        <a class="contact-card" href="mailto:mistmake@proton.me">
+            <span class="contact-icon">&#9993;</span>
+            <span class="contact-label">Email</span>
+            <span class="contact-value">mistmake@proton.me</span>
+        </a>
+
+        <a class="contact-card" href="https://t.me/wwwkkkio" target="_blank">
+            <span class="contact-icon">&#9992;</span>
+            <span class="contact-label">Telegram</span>
+            <span class="contact-value">@wwwkkkio</span>
+        </a>
+
+        <a class="contact-card" href="tel:+79267002007">
+            <span class="contact-icon">&#9742;</span>
+            <span class="contact-label">Телефон</span>
+            <span class="contact-value">+7 926 700 2007</span>
+        </a>
+
+        <a class="contact-card" href="https://github.com/mistmake" target="_blank">
+            <span class="contact-icon">&#11088;</span>
+            <span class="contact-label">GitHub</span>
+            <span class="contact-value">github.com/mistmake</span>
+        </a>
+
+        <a class="contact-card" href="https://www.linkedin.com/in/dmitrii-liahov-3828a23b7" target="_blank">
+            <span class="contact-icon">&#128188;</span>
+            <span class="contact-label">LinkedIn</span>
+            <span class="contact-value">dmitrii-liahov</span>
+        </a>
+
+    </div>
+</main>
+
+<style>
+    .contacts-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+        margin: 40px auto;
+        max-width: 800px;
+        padding: 0 20px;
+    }
+
+    .contact-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 8px;
+        width: 200px;
+        padding: 30px 20px;
+        border: 1px solid #e0e0e0;
+        border-radius: 12px;
+        text-decoration: none;
+        color: inherit;
+        transition: box-shadow 0.2s, border-color 0.2s;
+        background-color: #fff;
+    }
+
+    .contact-card:hover {
+        box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+        border-color: #dc6e6e;
+    }
+
+    .contact-icon {
+        font-size: 28px;
+        line-height: 1;
+    }
+
+    .contact-label {
+        font-weight: 700;
+        font-size: 13px;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: #888;
+    }
+
+    .contact-value {
+        font-size: 13px;
+        color: #333;
+        text-align: center;
+        word-break: break-all;
+    }
+</style>
+{% endblock main %}

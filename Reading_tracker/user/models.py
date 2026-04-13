@@ -12,7 +12,7 @@ class Reader(AbstractBaseUser, PermissionsMixin):
     password = models.CharField(max_length=40)
     is_staff = models.BooleanField(default=False)
     is_active = models.BooleanField(default=True)
-    date_joined = models.DateTimeField(default=timezone.now())
+    date_joined = models.DateTimeField(default=timezone.now)
     books = models.ManyToManyField(Book, through='ReadingList')
 
     USERNAME_FIELD = 'email'

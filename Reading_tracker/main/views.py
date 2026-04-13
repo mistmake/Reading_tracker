@@ -17,6 +17,10 @@ from django.template import Template, Context
 BOOK_ROOT = os.path.join(MEDIA_ROOT, 'book_files')
 
 
+def contacts(request):
+    return render(request, 'main/contact_us.html')
+
+
 def index(request):
     if request.method == 'POST':
         form = UploadBookForm(request.POST, request.FILES)

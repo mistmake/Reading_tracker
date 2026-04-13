@@ -1,4 +1,5 @@
 from django import forms
+from django.core.exceptions import ValidationError
 from book.models import Book
 
 
@@ -13,3 +14,9 @@ class UploadBookForm(forms.ModelForm):
                 'accept': '.epub'
             })
         }
+
+    def clean_book_file(self):
+        file = self.cleaned_data.get('book_file')
+        if file and not file.name.endswith('.epub'):
+            raise ValidationError('Поддерживаются только файлы в формате .epub')
+        return file
