@@ -1,0 +1,353 @@
+.block-rw {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.3em;
+    text-align: left;
+    padding: 2em 2em 0 0;
+    margin: 1.27em 0
+    }
+.body-rw {
+    -moz-hyphens: none;
+    display: block;
+    text-align: justify
+    }
+.body-rw1 {
+    -moz-hyphens: none;
+    display: block
+    }
+.body-rw2 {
+    -moz-hyphens: none;
+    display: block;
+    text-align: left
+    }
+.body-rw3 {
+    -moz-hyphens: none;
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.body-rw4 {
+    -moz-hyphens: auto;
+    display: block;
+    text-align: justify
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    color: rgba(255, 255, 255, 1);
+    display: block;
+    font-family: "DejaVu Serif";
+    font-size: 2em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1em;
+    text-align: center;
+    text-indent: 0;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+    padding: 0 0 1em;
+    margin: 0
+    }
+.calibre2 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre3 {
+    height: auto;
+    width: 100%;
+    padding: 0;
+    margin: 0 auto
+    }
+.calibre4 {
+    display: block;
+    text-indent: 0;
+    margin: 0 0 0.45em
+    }
+.calibre5 {
+    font-weight: bold
+    }
+.calibre6 {
+    display: block
+    }
+.calibre7 {
+    color: rgba(0, 100, 150, 1);
+    display: block;
+    font-family: "DejaVu Serif";
+    font-size: 1.66667em;
+    font-weight: normal;
+    line-height: 1.2em;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    padding: 1em 0 0.5em;
+    margin: 0
+    }
+.calibre8 {
+    display: block;
+    margin: 0 0 0.5em
+    }
+.calibre9 {
+    font-style: italic
+    }
+.calibre10 {
+    display: block;
+    text-indent: 0;
+    margin: 0 0 0.5em
+    }
+.calibre11 {
+    color: rgba(0, 150, 100, 1);
+    display: block;
+    font-family: inherit;
+    font-size: 1.125em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    page-break-after: avoid;
+    text-align: left;
+    text-transform: none;
+    padding: 0;
+    margin: 1.5em 0 0.5em
+    }
+.calibre12 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1.27em;
+    margin-right: 0;
+    margin-top: 1.27em;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre13 {
+    display: list-item;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: decimal;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin: 0
+    }
+.calibre14 {
+    line-height: 1.2
+    }
+.calibre15 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre16 {
+    color: rgba(0, 100, 150, 1);
+    display: block;
+    font-family: inherit;
+    font-size: 1.125em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2em;
+    page-break-after: avoid;
+    padding: 0;
+    margin: 0.75em 0 0.25em
+    }
+.calibre17 {
+    color: rgba(0, 100, 150, 1);
+    display: block;
+    font-family: inherit;
+    font-size: 1.41667em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    padding: 0;
+    margin: 1.5em 0 0.5em
+    }
+.calibre18 {
+    color: gray;
+    display: block;
+    height: 2px;
+    border: currentColor inset 1px;
+    margin: 0.5em auto
+    }
+.calibre19 {
+    color: rgba(0, 100, 150, 1);
+    display: block;
+    font-family: "DejaVu Serif";
+    font-size: 1.62963em;
+    font-weight: normal;
+    line-height: 1.2em;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    padding: 1em 0 0.5em;
+    margin: 0
+    }
+.calibre20 {
+    display: block;
+    line-height: 1.2;
+    margin: 0 0 0.5em
+    }
+.calibre21 {
+    color: rgba(0, 100, 150, 1);
+    display: block;
+    font-family: inherit;
+    font-size: 1.25926em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    padding: 0;
+    margin: 0.75em 0 0.25em
+    }
+.calibre22 {
+    color: gray;
+    display: block;
+    height: 2px;
+    line-height: 1.2;
+    border: currentColor inset 1px;
+    margin: 0.5em auto
+    }
+.ctarget {
+    display: block;
+    font-family: inherit;
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.1em;
+    text-align: center;
+    text-indent: 0;
+    padding: 0 0 1em;
+    margin: 0
+    }
+.fp-rw {
+    display: block;
+    line-height: 1.2;
+    text-indent: 0;
+    margin: 0 0 0.5em
+    }
+.frontmatter-rw {
+    background-image: url(OPS/images/aroundtheworldtitletexture_online.jpg);
+    background-position: center center;
+    display: block;
+    min-height: 2em;
+    padding: 0;
+    margin: 0
+    }
+.frontmatter-rw1 {
+    display: block;
+    font-size: 0.75em;
+    font-weight: normal;
+    line-height: 1.3em;
+    text-align: left;
+    padding: 2em 2em 0 0
+    }
+.frontmatter-rw2 {
+    display: block;
+    text-align: justify
+    }
+.galley-rw {
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: "DejaVuSerifCondensed", serif;
+    font-size: 1em;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.3em;
+    word-spacing: 0;
+    padding: 0;
+    margin: 0
+    }
+.imprint-rw {
+    display: block;
+    float: bottom;
+    font-size: 0.75em;
+    line-height: 1.2em;
+    margin-top: 2em;
+    text-align: center;
+    padding: 2em 0 0
+    }
+.media-rw {
+    display: block;
+    font-size: 0.77778em;
+    page-break-inside: avoid;
+    text-align: center;
+    text-indent: 0;
+    width: 20%;
+    padding: 0;
+    margin: 1.27em auto
+    }
+.pc-rw {
+    display: block;
+    padding: 0;
+    margin: 0 auto
+    }
+.title-block-book-rw {
+    display: block;
+    min-height: 2em;
+    padding: 1em 2em;
+    margin: 0
+    }
+.title-block-rw {
+    display: block;
+    min-height: 2em;
+    padding: 2em 0;
+    margin: 0
+    }
+.title-block-rw1 {
+    display: block;
+    line-height: 1.2;
+    min-height: 2em;
+    padding: 2em 0;
+    margin: 0
+    }
+.title-other-rw {
+    display: block;
+    font-family: inherit;
+    font-size: 0.88889em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    padding: 0 0 1em;
+    margin: 0
+    }
+.title-sub-rw {
+    color: rgba(255, 255, 255, 1);
+    display: block;
+    font-family: "DejaVuSansCondensed";
+    font-size: 2em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+    padding: 0 0 1em;
+    margin: 0
+    }
+.title-sub-rw1 {
+    color: rgba(0, 150, 100, 1);
+    display: block;
+    font-family: "DejaVu Serif";
+    font-size: 1.125em;
+    line-height: 1.2em;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    padding: 0 0 1.5em;
+    margin: 0
+    }
+.title-sub-rw2 {
+    color: rgba(0, 150, 100, 1);
+    display: block;
+    font-family: "DejaVu Serif";
+    font-size: 1.25926em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    padding: 0 0 1.5em;
+    margin: 0
+    }

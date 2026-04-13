@@ -18,5 +18,5 @@ class UploadBookForm(forms.ModelForm):
     def clean_book_file(self):
         file = self.cleaned_data.get('book_file')
         if file and not file.name.endswith('.epub'):
-            raise ValidationError('Поддерживаются только файлы в формате .epub')
+            raise ValidationError('Only .epub files are supported')
         return file

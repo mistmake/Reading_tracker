@@ -3,6 +3,7 @@ import os
 import zipfile
 
 from django.shortcuts import render, redirect
+from django.contrib.auth.decorators import login_required
 from bs4 import BeautifulSoup
 from .forms import UploadBookForm
 from book.file_readers.epub_reader_lector import EPUB
@@ -58,7 +59,8 @@ def index(request):
 
 
 def create_compatible_epub(book, uploaded_file, dir_path, reader_id, uploaded_name_only='', ):
-    with zipfile.ZipFile(uploaded_file, 'r') as zip_ref:
+    saved_path = book.book_file.path
+    with zipfile.ZipFile(saved_path, 'r') as zip_ref:
         css_files_list = []
 
         font_extensions = ['.ttf', '.otf', '.woff']
@@ -73,9 +75,7 @@ def create_compatible_epub(book, uploaded_file, dir_path, reader_id, uploaded_na
             elif file.endswith(tuple(image_extensions)):
                 zip_ref.extract(file, dir_path)
 
-        print(f'Style filenames: {css_files_list}')
-
-        epub_processor = EPUB(os.path.join(BOOK_ROOT, uploaded_file.name), BOOK_ROOT)
+        epub_processor = EPUB(saved_path, BOOK_ROOT)
         epub_processor.generate_content()
         epub_processor.generate_metadata()
 

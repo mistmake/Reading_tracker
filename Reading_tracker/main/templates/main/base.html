@@ -11,14 +11,14 @@
 </head>
 <body>
 <header>
-    <a href="{% url 'home' %}" style="font-weight: 700">Главная</a>
+    <a href="{% url 'home' %}" class="{% if request.resolver_match.url_name == 'home' %}nav-active{% endif %}">Home</a>
     <p>|</p>
-    <a href="{% url 'contacts' %}">Контакты</a>
+    <a href="{% url 'contacts' %}" class="{% if request.resolver_match.url_name == 'contacts' %}nav-active{% endif %}">Contacts</a>
     <p>|</p>
     {% if user.is_authenticated %}
-        <div><a href="{% url 'profile' %}">{{ user.email }}</a> <a href="{% url 'logout' %}"> <img src="{% static 'main/img/logout.svg' %}" alt="logout" style="margin: 0px; padding-right: 0px; width: 5%; height: auto;"></a></div>
+        <div><a href="{% url 'profile' %}">{{ user.email }}</a> <a href="{% url 'logout' %}"><img src="{% static 'main/img/logout.svg' %}" alt="logout" style="width: 18px; height: 18px; opacity: 0.6;"></a></div>
     {% else %}
-        <a href="{% url 'login' %}">Войти</a> <br>
+        <a href="{% url 'login' %}">Log in</a>
     {% endif %}
 </header>
 
@@ -28,12 +28,12 @@
 <footer class="footer">
     <div class="container">
         <div class="footer-left">
-            <p style="font-weight: 700">Свяжитесь со мной:</p>
-            <p>Телефон: +7 926 700 2007</p>
-            <p>Дата создания сайта: Декабрь 2023</p>
+            <p>Contact me:</p>
+            <p>Phone: +7 926 700 2007</p>
+            <p>Created: December 2023</p>
         </div>
         <div class="footer-right">
-            <p style="font-weight: 700">Мои страницы:</p>
+            <p>My pages:</p>
             <ul class="social-links">
                 <li><a href="https://github.com/mistmake" target="_blank">GitHub</a></li>
                 <li><a href="https://www.linkedin.com/in/dmitrii-liahov-3828a23b7" target="_blank">LinkedIn</a></li>

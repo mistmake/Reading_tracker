@@ -46,10 +46,10 @@ class ReaderChangeForm(UserChangeForm):
 
 
 class ReaderLogInForm(AuthenticationForm):
-    email = forms.EmailField(label='Email',
-                             widget=forms.EmailInput(attrs={'placeholder': 'Enter your email'}))
+    username = forms.EmailField(label='Email',
+                                widget=forms.EmailInput(attrs={'placeholder': 'Enter your email'}))
     password = forms.CharField(label='Password',
-                                widget=forms.PasswordInput(attrs={'placeholder': 'Enter your password'}))
+                               widget=forms.PasswordInput(attrs={'placeholder': 'Enter your password'}))
 
     class Meta:
         model = Reader

@@ -16,10 +16,10 @@
     <img style="width: 234px; height: 416px; margin: 30px 0" alt="Cover" src="jpg/Новый%20проект.jpg">
     <h2>{{ title }}</h2>
     <h3>{{ author }}</h3>
-    <h3 style="font-weight: 400">Всего глав: {{ chapter_num }}</h3>
+    <h3 style="font-weight: 400">Chapters: {{ chapter_num }}</h3>
 </div>
 
-<div class="container">
+<div class="reader-container">
     <nav class="chapter-list">
         <ul id="chapters" style="font-weight: 700">
             {% for chapter in book_text %}
@@ -28,6 +28,7 @@
         </ul>
     </nav>
     <main class="book-info">
+        <div id="current-chapter-title"></div>
         <div id="chapter-text">
             {% for chapter in book_text %}
                <div class="chapter-content" data-chapter="{{ forloop.counter0 }}">
@@ -37,8 +38,8 @@
         </div>
     </main>
 </div>
-<button class="forward-button">Вперед</button>
-<button class="back-button">Назад</button>
+<button class="forward-button">Next</button>
+<button class="back-button">Back</button>
 {% endblock main %}
 
 <!--<div class="tab">-->

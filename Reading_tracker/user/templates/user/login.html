@@ -15,7 +15,7 @@
     <form method="post" class="form">
         <div class="inputs">
             {% csrf_token %}
-            {{ form.email }}
+            {{ form.username }}
             {{ form.password }}
         </div>
         <button class="submit" type="submit">Submit</button>
@@ -30,10 +30,10 @@
         </ul>
     {% endif %}
     <div class="reset_password">
-        <pre>Forgot password? </pre> <a href="{% url 'sign up' %}">Reset password</a>
+        <span>Forgot password? </span><a href="{% url 'sign up' %}">Reset password</a>
     </div>
     <div class="login">
-        <pre>Don't have an account? </pre> <a href="{% url 'sign up' %}">Create Account</a>
+        <span>Don't have an account? </span><a href="{% url 'sign up' %}">Create Account</a>
     </div>
 </div>
 </body>

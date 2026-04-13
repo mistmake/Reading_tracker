@@ -18,9 +18,10 @@ function displayChapter(index) {
 
     chapterItems[index].classList.add('selected', 'chapter-item');
     currentChapterIndex = index;
-    console.log(index);
-    console.log(chapterItems[index].classList);
     document.querySelector(`.chapter-content[data-chapter="${index}"]`).style.display = 'block';
+
+    const titleEl = document.getElementById('current-chapter-title');
+    if (titleEl) titleEl.textContent = chapterItems[index].textContent.trim();
 }
 
 

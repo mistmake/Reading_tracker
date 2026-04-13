@@ -1,0 +1,94 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "DejaVuSerifCondensed";
+    font-weight: normal;
+    font-style: normal;
+    src: url(OPS/fonts/DejaVuSerifCondensed.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSerifCondensed";
+    font-weight: bold;
+    font-style: normal;
+    src: url(OPS/fonts/DejaVuSerifCondensed-Bold.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSerifCondensed";
+    font-weight: bold;
+    font-style: italic;
+    src: url(OPS/fonts/DejaVuSerifCondensed-BoldItalic.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSerifCondensed";
+    font-weight: normal;
+    font-style: italic;
+    src: url(OPS/fonts/DejaVuSerifCondensed-Italic.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSansCondensed";
+    font-weight: normal;
+    font-style: normal;
+    src: url(OPS/fonts/DejaVuSansCondensed.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSansCondensed";
+    font-weight: bold;
+    font-style: normal;
+    src: url(OPS/fonts/DejaVuSansCondensed-Bold.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSansCondensed";
+    font-weight: bold;
+    font-style: italic;
+    src: url(OPS/fonts/DejaVuSansCondensed-BoldOblique.ttf)
+    }
+@font-face {
+    font-family: "DejaVuSansCondensed";
+    font-weight: normal;
+    font-style: italic;
+    src: url(OPS/fonts/DejaVuSansCondensed-Oblique.ttf)
+    }
+@font-face {
+    font-family: "DejaVu Serif";
+    font-weight: normal;
+    font-style: normal;
+    src: url(OPS/fonts/DejaVuSerif.ttf)
+    }
+@font-face {
+    font-family: "DejaVu Serif";
+    font-weight: bold;
+    font-style: normal;
+    src: url(OPS/fonts/DejaVuSerif-Bold.ttf)
+    }
+@font-face {
+    font-family: "DejaVu Serif";
+    font-weight: bold;
+    font-style: italic;
+    src: url(OPS/fonts/DejaVuSerif-BoldOblique.ttf)
+    }
+@font-face {
+    font-family: "DejaVu Serif";
+    font-weight: normal;
+    font-style: italic;
+    src: url(OPS/fonts/DejaVuSerif-Oblique.ttf)
+    }
+@font-face {
+    font-family: "code";
+    font-weight: normal;
+    font-style: normal;
+    src: url(OPS/fonts/DejaVuSansMono.ttf)
+    }
+@font-face {
+    font-family: "code";
+    font-weight: bold;
+    font-style: normal;
+    src: url(OPS/fonts/DejaVuSansMono-Bold.ttf)
+    }
+@font-face {
+    font-family: "code";
+    font-weight: bold;
+    font-style: italic;
+    src: url(OPS/fonts/DejaVuSansMono-BoldOblique.ttf)
+    }

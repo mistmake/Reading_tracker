@@ -48,37 +48,16 @@ class Logout(View):
 
 
 # @user_not_authenticated
-def sign_up(request):  # todo: finish email services
+def sign_up(request):
     if request.method == 'POST':
         form = ReaderCreationForm(request.POST)
         if form.is_valid():
-            reader = form.save(commit=False)
-            reader.is_active = False
-            reader.save()
-
-            current_site = get_current_site(request)
-            mail_subject = 'Activate your account.'
-            message = render_to_string('user/activate_account.html', {
-                'user': reader.email,
-                'domain': get_current_site(request).domain,
-                'uid': urlsafe_base64_encode(force_bytes(reader.pk)),
-                'token': account_activation_token.make_token(reader),
-                'protocol': 'https' if request.is_secure() else 'http'
-            })
-            print(message)
-            to_email = form.cleaned_data.get('email')
-            email = EmailMessage(mail_subject, message, to=[to_email])
-            print("EmailMessage:", email)
-            if email.send():
-                print('Good')
-
-            messages.success(request, f'Account for {email} was created!')
-            # activate_email(request, reader, form.cleaned_data.get('email'))
+            reader = form.save()
+            login(request, reader)
             return redirect('/')
         else:
             return render(request, 'user/sign_up.html', {'form': form})
     else:
-        print('Method GET')
         form = ReaderCreationForm()
         return render(request, 'user/sign_up.html', {'form': form})
 

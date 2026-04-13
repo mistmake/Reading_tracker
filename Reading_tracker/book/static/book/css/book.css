@@ -1,42 +1,169 @@
-.container {
-    display: flex;
+/* ── Book page layout ── */
+.info_kniga {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 40px 24px 32px;
+  background: #fff;
+  border-bottom: 1px solid #e8e4e0;
+}
+
+.info_kniga img {
+  border-radius: 8px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18);
+  margin-bottom: 20px;
+}
+
+.info_kniga h2 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  letter-spacing: -0.01em;
+}
+
+.info_kniga h3 {
+  font-size: 15px;
+  color: #777;
+  margin-bottom: 4px;
+}
+
+/* ── Reader layout ── */
+.reader-container {
+  display: flex;
+  height: calc(100vh - 60px);
+  overflow: hidden;
+}
+
+/* ── Sidebar ── */
+.chapter-list {
+  width: 260px;
+  min-width: 260px;
+  background: #fff;
+  border-right: 1px solid #e8e4e0;
+  overflow-y: auto;
+  padding: 24px 0;
+}
+
+.chapter-list::-webkit-scrollbar {
+  width: 4px;
+}
+.chapter-list::-webkit-scrollbar-track {
+  background: transparent;
+}
+.chapter-list::-webkit-scrollbar-thumb {
+  background: #ddd;
+  border-radius: 4px;
 }
 
 .chapter-list ul {
-    list-style: none;
-    padding: 0;
-    max-height: 400px;
-    overflow-y: auto;
+  list-style: none;
+  padding: 0;
 }
 
 .chapter-list li {
-    cursor: pointer;
-    /* display: none; */
-}
-
-.chapter-content {
-    display: none;
+  padding: 10px 20px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #555;
+  cursor: pointer;
+  border-left: 3px solid transparent;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  line-height: 1.45;
 }
 
 .chapter-list li:hover {
-    text-decoration: underline;
+  background: #fdf4f4;
+  color: #c85c5c;
 }
 
 .chapter-list li.selected {
-    text-decoration: underline;
+  border-left-color: #c85c5c;
+  color: #c85c5c;
+  background: #fdf4f4;
+  font-weight: 700;
 }
 
+/* ── Current chapter title ── */
+#current-chapter-title {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #c85c5c;
+  margin-bottom: 28px;
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ── Main reading area ── */
 .book-info {
-    flex: 2;
-    padding: 20px;
-    text-align: left;
+  flex: 1;
+  overflow-y: auto;
+  padding: 48px 80px;
+  background: #f8f6f3;
 }
 
-.info_kniga{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
-    text-align: center;
+.book-info::-webkit-scrollbar {
+  width: 6px;
+}
+.book-info::-webkit-scrollbar-thumb {
+  background: #ddd;
+  border-radius: 4px;
+}
+
+.chapter-content {
+  display: none;
+  max-width: 680px;
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 1.9;
+  color: #222;
+  text-align: left;
+}
+
+.chapter-content p {
+  margin-bottom: 1.2em;
+}
+
+/* ── Navigation buttons ── */
+.forward-button,
+.back-button {
+  position: fixed;
+  bottom: 32px;
+  z-index: 50;
+  padding: 10px 26px;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  border-radius: 8px;
+  background: #c85c5c;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(200, 92, 92, 0.3);
+  transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+}
+
+.back-button {
+  left: 292px;
+}
+
+.forward-button {
+  right: 40px;
+}
+
+.forward-button:hover,
+.back-button:hover {
+  background: #b04f4f;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px rgba(200, 92, 92, 0.35);
+}
+
+.forward-button:active,
+.back-button:active {
+  transform: translateY(0);
+  box-shadow: none;
 }

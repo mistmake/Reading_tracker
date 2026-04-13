@@ -9,25 +9,40 @@
 
 {% block main %}
 <main>
-    <h1>Приветствуем вас на сайте Reading Tracker!</h1>
+    <h1>Welcome to Reading Tracker!</h1>
     <div class="inform">
-        Reading Tracker — это удобный сервис для тех, кто любит читать. Здесь вы можете загружать книги в формате EPUB
-        и читать их прямо в браузере: без лишних программ и регистраций на сторонних сервисах. Навигация по главам,
-        сохранение прогресса и аккуратный интерфейс — всё для комфортного чтения.
+        Reading Tracker is a convenient service for book lovers. Upload your books in EPUB format
+        and read them right in the browser — no extra software or third-party accounts needed.
+        Chapter navigation, reading progress tracking, and a clean interface for a comfortable reading experience.
     </div>
 
-    <h2>Загрузить книгу (.epub):</h2>
+    {% if user.is_authenticated %}
+    <h2>Upload a book (.epub):</h2>
     <div class="chooseFile">
         <form method="post" enctype="multipart/form-data">
             {% csrf_token %}
             {{ form.book_file }}
-            <button onclick="uploadEpub()" type="submit">Загрузить</button>
+            <button onclick="uploadEpub()" type="submit">Upload</button>
         </form>
     </div>
-    <div class="inform" style="margin-top: 30px">
-        Поддерживается формат <strong>EPUB</strong> — наиболее распространённый стандарт для электронных книг.
-        После загрузки книга сразу откроется в читалке: вы увидите список глав слева и содержимое главы справа.
-        Используйте кнопки «Вперед» и «Назад» или нажимайте на название главы в боковой панели для навигации.
+    {% if form.errors %}
+    <div class="upload-errors">
+        {% for field, errors in form.errors.items %}
+            {% for error in errors %}
+                <p>{{ error }}</p>
+            {% endfor %}
+        {% endfor %}
     </div>
+    {% endif %}
+    <div class="inform" style="margin-top: 30px">
+        Only <strong>EPUB</strong> format is supported — the most widely used standard for e-books.
+        Once uploaded, the book opens immediately in the reader: chapter list on the left, content on the right.
+        Use the Next and Back buttons or click a chapter title in the sidebar to navigate.
+    </div>
+    {% else %}
+    <div style="margin-top: 30px;">
+        <a href="{% url 'login' %}" class="login-cta">Log in to start reading</a>
+    </div>
+    {% endif %}
 </main>
 {% endblock main %}
